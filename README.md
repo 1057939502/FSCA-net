@@ -1,2 +1,2 @@
 # FSCA-net
-Open source code of 《Direct estimation of Intravoxel Incoherent Motion parameters to Diffusion-weighted MR using an attention-based deep learning model》
+Open source code will be published after the paper is successfully employed
